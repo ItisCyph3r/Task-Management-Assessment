@@ -8,7 +8,7 @@ A full-stack Task Management web application built as part of a FullStack Engine
 
 | Service  | URL |
 |----------|-----|
-| Frontend | task-management-fe-eta-sable.vercel.app |
+| Frontend | https://task-management-fe-eta-sable.vercel.app |
 | Backend API | https://task-management-be-263983019933.europe-west2.run.app |
 
 ---
